@@ -22,5 +22,5 @@ When Anaconda is installed, code can be run either though an iPython shell, Spyd
 
 ## Citation:
 
-Please cite as: Hernandez, I (2017). (April, 2017). Automated data collection: An introduction to web ccraping with Python. Master Tutorial presented at the 32nd Annual Society for Industrial and Organizational Psychology Annual Conference, Orlando, FL
+Please cite as: Hernandez, I (2017). (April, 2017). Automated data collection: An introduction to web scraping with Python. Master Tutorial presented at the 32nd Annual Society for Industrial and Organizational Psychology Annual Conference, Orlando, FL
 
