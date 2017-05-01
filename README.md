@@ -9,7 +9,7 @@ All code-related files are in the "notebooks" directory.
 All presentation- and handout-related files are in the "pdfs" directory.
 
 When reading through the materials for the first time, the following order is recommended:
-+ [Slides](https://github.com/ivanhrndz/SIOP2017/blob/master/pdfs/Automated%20Data%20CollectionSlides.pdf)
++ [Slides](https://docs.google.com/presentation/d/1E7F0sUnuH9GLwYhKUOlp1WmnNJkPaXdBVKnaXEUrzx4/edit?usp=sharing)
 + [Code Walkthrough](https://github.com/ivanhrndz/SIOP2017/blob/master/notebooks/Automated%20Data%20Collection.ipynb)
 + [Exercises](https://github.com/ivanhrndz/SIOP2017/blob/master/pdfs/AutomatedCollectingExercises.pdf)
 + [Exercise Solutions](https://github.com/ivanhrndz/SIOP2017/blob/master/notebooks/AutomatedDataCollectionExercises.ipynb)
