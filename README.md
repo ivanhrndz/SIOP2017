@@ -1,4 +1,6 @@
-# Automated Data Collection with Python (SIOP 2017 Master Tutorial)
+ {% seo %}
+ 
+# Automated Data Collection: An Introduction to Web Scraping with Python (SIOP 2017 Master Tutorial)
 
 ## Overview
 
